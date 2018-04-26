@@ -12,19 +12,19 @@
     <script>
     document.writeln("<h2>JSON schema Classwork</h2>");
 
-    document.writeln("<table border = '2'><tr>");
+    document.writeln("<table border = '1'><tr>");
 
     for (i = 0; i < json.length; i++) {
         document.writeln("<td>");
-        document.writeln("<table border = '1' width = 20 >");
+        document.writeln("<table border = '1' width = 40 >");
         document.writeln("<tr><td><b>uniqueID</b></td><td width = 50>" + json[i].uniqueID + "</td></tr>");
         document.writeln("<tr><td><b>firstName</b></td><td width = 50>" + json[i].firstName + "</td></tr>");
         document.writeln("<tr><td><b>lastName</b></td><td width = 50>" + json[i].lastName + "</td></tr>");
         document.writeln("<tr><td><b>emailAddress</b></td><td width = 50>" + json[i].emailAddress + "</td></tr>");
         document.writeln("<tr><td><b>jobTitle</b></td><td width = 50>" + json[i].jobTitle + "</td></tr>");
         document.writeln("<tr><td><b>salary</b></td><td width = 50>" + json[i].salary + "</td></tr>");
-        document.writeln("</table>");
         document.writeln("</td>");
+        document.writeln("</table>");
     }
     </script>
 </body>

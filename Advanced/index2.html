@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <title>Advanced Classwork / 2nd Version</title>
+</head>
+
+<body>
+    <script src="data.json"></script>
+    <script>
+    document.writeln("<center> <h2>JSON schema Classwork</h2></center>");
+    document.writeln("<table border = '1' align = center>");
+
+
+    for (i = 0; i < json.length; i++) {
+        document.writeln("<tr>");
+        document.writeln("<td>" + json[i].uniqueID + "</td>" + "<td>" + json[i].firstName + "</td>" + "<td>" + json[i].lastName + "</td>" + "<td>" + json[i].emailAddress + "</td>" + "<td>" + json[i].jobTitle + "</td>" + "<td>" + json[i].salary + "</td>");
+        document.writeln("</tr>");
+    }
+    document.writeln("</table>");
+    </script>
+</body>
+
+</html>
