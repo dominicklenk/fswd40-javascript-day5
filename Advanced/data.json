@@ -1,0 +1,71 @@
+var json = [{
+    "uniqueID": 837493926,
+    "firstName": "Patrick",
+    "lastName": "Jonathan",
+    "emailAddress": "patrik.k.jonathan@gmail.com",
+    "jobTitle": "Developer",
+    "salary": "3500"
+}, {
+    "uniqueID": 837494521,
+    "firstName": "Sam",
+    "lastName": "Sammy",
+    "emailAddress": "sam.sammy@gmail.com",
+    "jobTitle": "Analyst",
+    "salary": "1800"
+}, {
+    "uniqueID": 837493568,
+    "firstName": "Max",
+    "lastName": "Payne",
+    "emailAddress": "max.payne@gmail.com",
+    "jobTitle": "Manager",
+    "salary": "8000"
+}, {
+    "uniqueID": 837491234,
+    "firstName": "John",
+    "lastName": "Deep",
+    "emailAddress": "john_deep@gmail.com",
+    "jobTitle": "Actor",
+    "salary": "2000"
+}, {
+    "uniqueID": 837495678,
+    "firstName": "Dave",
+    "lastName": "Power",
+    "emailAddress": "power.dave@gmail.com",
+    "jobTitle": "Barber",
+    "salary": "1800"
+}, {
+    "uniqueID": 837496421,
+    "firstName": "Anna",
+    "lastName": "Whatever",
+    "emailAddress": "what.anna@gmail.com",
+    "jobTitle": "Designer",
+    "salary": "2300"
+}, {
+    "uniqueID": 837498641,
+    "firstName": "Sara",
+    "lastName": "Pacman",
+    "emailAddress": "s.pacman@gmail.com",
+    "jobTitle": "Sales",
+    "salary": "1600"
+}, {
+    "uniqueID": 837493890,
+    "firstName": "Julia",
+    "lastName": "Johnson",
+    "emailAddress": "j.julia@gmail.com",
+    "jobTitle": "Chief",
+    "salary": "2000"
+}, {
+    "uniqueID": 837493926,
+    "firstName": "Marian",
+    "lastName": "Lopez",
+    "emailAddress": "marian.lopez@gmail.com",
+    "jobTitle": "Junior Developer",
+    "salary": "2900"
+}, {
+    "uniqueID": 837497598,
+    "firstName": "Michael",
+    "lastName": "Jordan",
+    "emailAddress": "m.hero@gmail.com",
+    "jobTitle": "Baseballplayer",
+    "salary": "2500"
+}];
